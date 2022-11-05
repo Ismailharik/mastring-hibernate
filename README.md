@@ -1,4 +1,4 @@
-<h1> mastring-hibernate</h2>
+<h1> Hibernate Inheritance Mapping</h2>
   <h2> here you can find all Inheritance Mapping methods used by hibernate <h2>
   <ul>
     <li> Table Per Hierarchy</li>
